@@ -1,0 +1,5 @@
+rootProject.name = 'projectm'
+include 'm-repository'
+include 'm-service'
+include 'm-api'
+
